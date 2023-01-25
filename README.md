@@ -31,7 +31,7 @@ Click here for [Course URL](https://www.udemy.com/course/the-python-mega-course/
 * [X] App 2
 * [X] App 3
 * [X] App 4
-* [X App 5
+* [X] App 5
 * [X] App 6
 * [X] App 7
 * [X] App 8
