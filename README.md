@@ -28,15 +28,15 @@ Click here for [Course URL](https://www.udemy.com/course/the-python-mega-course/
 
 ### **Apps Completed** - 
 * [X] App 1
-* [ ] App 2
-* [ ] App 3
-* [ ] App 4
-* [ ] App 5
-* [ ] App 6
-* [ ] App 7
-* [ ] App 8
-* [ ] App 9
-* [ ] App 10
+* [X] App 2
+* [X] App 3
+* [X] App 4
+* [X App 5
+* [X] App 6
+* [X] App 7
+* [X] App 8
+* [X] App 9
+* [X] App 10
 
 ### **Contributors**
 <!--Tables -->
