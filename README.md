@@ -27,7 +27,7 @@ Click here for [Course URL](https://www.udemy.com/course/the-python-mega-course/
   * Learn OOP (Object-Oriented Programming)
 
 ### **Apps Completed** - 
-* [ ] App 1
+* [X] App 1
 * [ ] App 2
 * [ ] App 3
 * [ ] App 4
